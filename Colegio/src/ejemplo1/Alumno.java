@@ -1,10 +1,12 @@
 package ejemplo1;
 
 public class Alumno {
-
 	/* Constructor */
 	 protected String nombre;
 	 protected int edad;
+	 public String apellido;
+	 
+	 /*Este es el constructor con nombre y edad*/
 	 public Alumno(String a, int b){
 	 nombre = a;
 	 edad = b;

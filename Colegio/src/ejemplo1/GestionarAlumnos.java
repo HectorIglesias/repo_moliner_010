@@ -7,6 +7,7 @@ public class GestionarAlumnos {
 		/* Crea una lista de alumnos */
 		 Lista listaDAW;
 		 listaDAW = new Lista(3);
+		 
 		 /* Creo dos alumnos */
 		 Alumno alumno1;
 		 Alumno alumno2;
